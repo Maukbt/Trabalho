@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<limits.h>
-#include<stdlib.h>
+#include<stdlib.h> 
 
 int *v,*u,size,i,j=0,menor,op;
 
