@@ -15,7 +15,7 @@ Arquitetura: Arquitetura Nehalem (Core i7)
 
 Biblioteca: stdio.h, limits.h e stdlib.h
 
-Como usa o programa
+Como usa o programa 
 --------------------------------------------------------
 Uma vez compilado e executado o código, a janela principal
 do programa é aberta e nela é possível escolher 3 opções de
