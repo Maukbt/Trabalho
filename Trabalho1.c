@@ -2,17 +2,21 @@
 #include<limits.h>
 #include<stdlib.h>
 
-int *v,*u,size,i,j=0,menor,m,valor,op;
+#include<stdio.h>
+#include<limits.h>
+#include<stdlib.h>
+
+int *v,*u,size,i,j=0,menor,op;
 
 void quick(int *v,int first,int last){
-    int pivo,j,aux,i;
+    int pivo,aux;
 	
 	if(first<last){
         pivo=first;
         i=first;
         j=last;
 		
-		while(i<j){ 
+	while(i<j){ 
             while(v[i]<=v[pivo]&&i<last)
                 i++;
             while(v[j]>v[pivo])
@@ -62,8 +66,8 @@ void eleuni(int size){
 
 void fredis(int size)
 { 
-int j=0,cont = 0,atual = 1,freq = 0,key = 0, i=0;
-	
+int j=0,cont = 0,atual = 1,freq = 0,key = 0;
+	i=0;
 	while(i<size){//verifica se todos os elementos são diferentes
 		if(v[i]!=v[i+1]&&v[i]!=v[i-1])
 			j++;
