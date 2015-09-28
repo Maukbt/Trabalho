@@ -27,13 +27,12 @@ irá calcular o resultado de acordo com a opção escolhida anteriormente.
 a)Closest Pair: entrando valores inteiros de um vetor de tamanho n(n>1),
   		o algoritmo irá retornar o par cuja diferença é a menor
 		entre os elementos do vetor, apresentando também o valor
-		da diferença
+		da diferença.
 
 b)Element Uniqueness: entrando valores inteiros de um vetor de tamanho n(n>1),
 		      o algoritmo irá retorna os elementos que aparecem
 		      unicamente no vetor.
 
 c)Frequency Distribution: entrando valores inteiros de um vetor de tamanho n(n>1),
-			  o algoritmo irá retornar os elementos que ocorrem com
-			  mais frequência no vetor
-
+			  o algoritmo irá retornar os elemento que ocorre com mais
+			  frequência no vetor.
