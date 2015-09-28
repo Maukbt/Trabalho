@@ -128,5 +128,5 @@ int main(){
 	if(op==3) fredis(size);
 	
 	free(v);
-    return 0;
+    	return 0;
 }
