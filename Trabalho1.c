@@ -2,10 +2,6 @@
 #include<limits.h>
 #include<stdlib.h>
 
-#include<stdio.h>
-#include<limits.h>
-#include<stdlib.h>
-
 int *v,*u,size,i,j=0,menor,op;
 
 void quick(int *v,int first,int last){
