@@ -12,6 +12,7 @@ O programa foi compilado utilizando-se compiladores
 baseados em GCC (GNU Compiler Collection)
 
 Arquitetura: Arquitetura Nehalem (Core i7)
+
 Biblioteca: stdio.h, limits.h e stdlib.h
 
 Como usa o programa
