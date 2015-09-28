@@ -1,9 +1,9 @@
 Trabalho 1 da disciplina de Linguagens de Programação e Aplicações(LPA)
 
 Nome:   Maurício Kubota
-Nº USP: 9312780
-GitHub: Maukbt
-Compilação do código
+Nº USP: 9312780 
+GitHub: Maukbt 
+Compilação do código 
 --------------------------------------------------------
 Para compilar o código é necessário um software IDE
 (Integrated Development Environments) como por exemplo:
